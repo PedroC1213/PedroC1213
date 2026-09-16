@@ -12,7 +12,7 @@ Tengo mentalidad de resolución de problemas y me encanta participar en proyecto
 
 ## Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-jose-castro-blanquicett-2a501a340/)
 
 ## 💻 Tech Stack:
 
